@@ -16,7 +16,7 @@ If you are opting out of career services, this is _still a required assignment_.
 
 # Password Generator
 
-##Description
+## Description
 
 The assignment request the developer to creata a secure password. They will be promted to determine certain character types required for the password and then a new random password will be generated.
 
@@ -26,10 +26,10 @@ The criteria that the password is able to meet are:
 the password is between 8 - 128 characters long
 
 the password must have at least one of the following character types:
-*lowercase characters
-*uppercasse characters
-*special characters
-*numeric characters
+.lowercase characters
+.uppercasse characters
+.special characters
+.numeric characters
 
 ![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/passwordGenerator.png "password generator")
 [Password Generator](https://github.com/carefree2706/passwordGenerator) 
