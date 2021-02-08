@@ -15,10 +15,10 @@ If you are opting out of career services, this is _still a required assignment_.
 
 
 ![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/passwordGenerator.png "password generator")
-[I'm a relative reference to a repository file](https://github.com/carefree2706/weatherforecast)
+[Password Generator](https://github.com/carefree2706/passwordGenerator)
 
 ![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/weatherForecast.png "weather forecast")
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[Weather Forecast](https://github.com/carefree2706/weatherforecast)
 
 ![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/project1.png "project 1")
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[CSS project 1](https://github.com/bencyna/Catch-Source-Style)
