@@ -15,10 +15,10 @@ If you are opting out of career services, this is _still a required assignment_.
 
 
 ![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/passwordGenerator.png "password generator")
-[Password Generator](https://github.com/carefree2706/passwordGenerator)
+[Password Generator](https://github.com/carefree2706/passwordGenerator) +1
 
 ![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/weatherForecast.png "weather forecast")
-[Weather Forecast](https://github.com/carefree2706/weatherforecast)
+[Weather Forecast](https://github.com/carefree2706/weatherforecast) +1
 
 ![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/project1.png "project 1")
-[CSS project 1](https://github.com/bencyna/Catch-Source-Style)
+[CSS project 1](https://github.com/bencyna/Catch-Source-Style) +1
