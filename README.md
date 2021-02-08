@@ -3,7 +3,7 @@
 
 # Updated responsive portfolio
 
-The upated responsive portfolio displayed linked to the user's account such as github, facebook and linkedin. The portfolio also showcases the assignment and project which the user created throghout the ABC course.
+The upated responsive portfolio displayed linked to the user's account such as github, facebook and linkedin. The portfolio also showcases the assignment and project which the user created throghout the ABC course. 2 assignments and 1 project added into this readme to showcase what the developer learnt through this ABC course.
 
 
 # Password Generator
