@@ -11,8 +11,8 @@ I had the run/test the html countless time making sure function, link, navbar, a
 
 
 
-![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/passwordGenerator.png "Logo Title Text 1")
+![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/passwordGenerator.png "password generator")
 
-![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/weatherForecast.png)
+![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/weatherForecast.png "weather forecast")
 
-![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/project1.png)
+![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/project1.png "project 1")
