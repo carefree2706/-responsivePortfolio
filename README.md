@@ -3,11 +3,7 @@
 
 # Updated responsive portfolio
 
-The upated 
-
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
-
-If you are opting out of career services, this is _still a required assignment_. Part of being a web developer means being a part of a community. Having a place to share your projects is _necessary_ if you're applying for jobs, but it's also _critical_ on your journey as a developer.
+The upated responsive portfolio displayed linked to the user's account such as github, facebook and linkedin. The portfolio also showcases the assignment and project which the user created throghout the ABC course.
 
 
 # Password Generator
@@ -64,6 +60,17 @@ This assignment required the developer to create a weather forecast application 
 
 ![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/weatherForecast.png "weather forecast")
 [Weather Forecast](https://github.com/carefree2706/weatherforecast) 
+
+# Catch-Source-Style: A web tool for new web developers and designers
+
+## Description:
+A color and font selection tool for web designers and developers.
+
+## Background
+Being new to web design and developing is a steep learning curve. Having so much to focus on in the first few weeks of your web developer journey is dauting so we wanted to come up with a tool that we would of found useful at the start of our journey and so Catch - Source - Style was developed
+
+## Features
+Try out over 1000 fonts with our responsive font selector and see exactly how it will look immediately on the webpage Upload an image and see the dominant primary colours from the image that you can choose to use Copy the font style and the colour hexidecimal code to use immediately in your web design work. Save your style choices to come back to later.
 
 ![alt text](https://github.com/carefree2706/-responsivePortfolio/blob/main/assets/images/project1.png "project 1")
 [CSS project 1](https://github.com/bencyna/Catch-Source-Style) 
